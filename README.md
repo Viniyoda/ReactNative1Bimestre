@@ -1,4 +1,5 @@
-### PROJETO 1º BIMESTRE / # 📱 Pokédex React Native
+
+# PROJETO 1º BIMESTRE # 📱 # Pokédex React Native #
 Criado por:
 * Jhonatan Dias Farias
 * Vinícius de Paula
@@ -101,16 +102,6 @@ REST API gratuita para informações de Pokémons.
 
 - 📦 AsyncStorage  
 Armazena dados localmente no dispositivo.
-
----
-
-## 📸 Prévia do app
-
-| Tela de Login | Cadastro de Usuário | Pokédex |
-|:-------------|:-------------------|:---------|
-| ![Login](./assets/login.png) | ![Cadastro](./assets/cadastro.png) | ![Pokédex](./assets/pokedex.png) |
-
-*(substituir pelas imagens reais do projeto se quiser)*
 
 ---
 
